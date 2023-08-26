@@ -1,5 +1,3 @@
-#KRAMER ELECTRONICS LTD
------------------------
-**bold text**
-USER MANUAL
+**KRAMER ELECTRONICS LTD**
+**USER MANUAL**
 
