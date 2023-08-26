@@ -1,7 +1,4 @@
-#dffdghfghf
-
-##hfgjgghffhgffhg
-	term
+term
 : definition
 | Syntax | Description |
 | ----------- | ----------- |
